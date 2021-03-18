@@ -5,7 +5,7 @@ This application allows users to input their own answers to complete the Mad Lib
 
 ## Application Features
 1) Put in answers based on criteria 
-
+2) Enjoy the finished MadLib 
 
 ## Technologies
 Python
