@@ -1,5 +1,5 @@
 # Mad-Libs-Generator
-![]()
+![](https://github.com/Cachamoe/Mad-Libs-Generator/blob/main/Screen%20Shot%202021-03-19%20at%205.12.10%20PM.png)
 ## Overview
 This application allows users to input their own answers to complete the Mad Lib!
 
