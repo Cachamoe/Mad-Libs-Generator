@@ -4,7 +4,7 @@
 This application allows users to input their own answers to complete the Mad Lib!
 
 ## Application Features
-1) To run the game in terminal type:  python game.py 
+1) To run the game in terminal type: python game.py 
 2) Put in answers based on criteria 
 3) Enjoy the finished MadLib 
 
